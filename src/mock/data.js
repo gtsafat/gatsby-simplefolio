@@ -37,11 +37,11 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: 'project description',
-    info2: 'paragraph',
-    url: '',
+    img: 'project2.jpg',
+    title: 'Restaurant Website With Admin panel',
+    info: 'This is a dynamic website build for a restaurant',
+    info2: 'The front end of this website is written in HTML,CSS and backend is written in raw php',
+    url: 'http://restaurantwebsite.epizy.com/',
     repo: '', // if no repo, the button will not show up
   },
   {
